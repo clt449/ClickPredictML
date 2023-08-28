@@ -4,7 +4,7 @@ Predicting Ad Clicks
 **Project Summary: Data Analysis and Modeling for Click Prediction**
 
 **Background:**
-You are aspiring to transition into a senior data analyst or data analytics manager role. You have a strong academic and professional background in biotechnology, chemistry, and data analysis. You are proficient in Python, SQL, and data visualization tools like Tableau. Your goal is to analyze data related to ad clicks and predict whether a user will click on an ad.
+You Goal is to analyze data related to ad clicks and predict whether a user will click on an ad.
 
 **Project Steps:**
 
