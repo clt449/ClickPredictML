@@ -4,7 +4,7 @@ Predicting Ad Clicks
 **Project Summary: Data Analysis and Modeling for Click Prediction**
 
 **Background:**
-You Goal is to analyze data related to ad clicks and predict whether a user will click on an ad.
+Goal is to analyze data related to ad clicks and predict whether a user will click on an ad.
 
 **Project Steps:**
 
